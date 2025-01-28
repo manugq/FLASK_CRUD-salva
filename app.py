@@ -21,7 +21,7 @@ def init_db():
             description TEXT
         )
         """)
-    print("Base de datos inicializada")
+    print("Base de datos inicializada...CAMBIO EL FICHERO CON ESTO")
 
 # Página principal: Listar registros
 @app.route('/')
